@@ -2,7 +2,7 @@
 
 🎓 I'm pursuing a dual degree in **Neuroscience & Behaviour** and **Computer Science** at [Mount Holyoke College](https://www.mtholyoke.edu).  
 🧠 I'm passionate about **NeuroAI**, **Bioinformatics**, and **Brain-Computer Interfaces**.  
-🔬 I love building projects at the intersection of both these fields of my interest.
+🔬 I love building projects at the intersection of neuroscience and AI/ML.
 
 ## 🌱 Currently Learning
 - Neural Networks & Deep Learning  
